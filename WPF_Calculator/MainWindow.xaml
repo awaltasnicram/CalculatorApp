@@ -1,0 +1,76 @@
+﻿<Window x:Class="TestWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="430" Width="280">
+
+    <Grid Background="#FFF">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!--Numery klawiszy-->
+
+        <Button x:Name="liczba_1" Grid.Column="0" Grid.Row="5" Click="liczba_1_Click" Background="#a8c9ff" Margin="1">1</Button>
+        <Button x:Name="liczba_2" Grid.Column="1" Grid.Row="5" Click="liczba_2_Click" Background="#a8c9ff" Margin="1">2</Button>
+        <Button x:Name="liczba_3" Grid.Column="2" Grid.Row="5" Click="liczba_3_Click" Background="#a8c9ff" Margin="1">3</Button>
+        <Button x:Name="liczba_4" Grid.Column="0" Grid.Row="4" Click="liczba_4_Click" Background="#a8c9ff" Margin="1">4</Button>
+        <Button x:Name="liczba_5" Grid.Column="1" Grid.Row="4" Click="liczba_5_Click" Background="#a8c9ff" Margin="1">5</Button>
+        <Button x:Name="liczba_6" Grid.Column="2" Grid.Row="4" Click="liczba_6_Click" Background="#a8c9ff" Margin="1">6</Button>
+        <Button x:Name="liczba_7" Grid.Column="0" Grid.Row="3" Click="liczba_7_Click" Background="#a8c9ff" Margin="1">7</Button>
+        <Button x:Name="liczba_8" Grid.Column="1" Grid.Row="3" Click="liczba_8_Click" Background="#a8c9ff" Margin="1">8</Button>
+        <Button x:Name="liczba_9" Grid.Column="2" Grid.Row="3" Click="liczba_9_Click" Background="#a8c9ff" Margin="1">9</Button>
+        <Button x:Name="liczba_0" Grid.Column="1" Grid.Row="6" Click="liczba_0_Click" Background="#a8c9ff" Margin="1">0</Button>
+
+
+        <!--Klawisze usuwania-->
+        <Button x:Name="wymaz" Grid.Column="0" Grid.Row="2" Click="wymaz_Click" Background="#5797ff" Margin="1">CE</Button>
+        <Button x:Name="czysc_wsz" Grid.Column="1" Grid.Row="2" Click="czysc_Click" Background="#5797ff" Margin="1">C</Button>
+        <Button x:Name="cofnij" Grid.Column="2" Grid.Row="2" Click="cofnij_click" Background="#5797ff" Margin="1">Cofnij</Button>
+
+        <!-- Dzialania algebraiczne -->
+        <Button x:Name="plus" Grid.Column="3" Grid.Row="2" Click="plus_Click" Background="#5797ff" Margin="1">+</Button>
+        <Button x:Name="minus" Grid.Column="3" Grid.Row="3" Click="minus_Click" Background="#5797ff" Margin="1">-</Button>
+        <Button x:Name="mnozenie" Grid.Column="3" Grid.Row="4" Click="mnozenie_Click" Background="#5797ff" Margin="1">*</Button>
+        <Button x:Name="dzielenie" Grid.Column="3" Grid.Row="5" Click="dzielenie_Click" Background="#5797ff" Margin="1">/</Button>
+        <Button x:Name="pierwiastek" Grid.Column="3" Grid.Row="6" Click="pierwiastek_Click" Background="#5797ff" Margin="1">√x</Button>
+
+        <!--Inne klawisze-->
+        <Button x:Name="plus_minus" Grid.Column="0" Grid.Row="6" Click="plus_minus_Click" Background="#5797ff" Margin="1">+-</Button>
+        <Button x:Name="rowna_sie" Grid.Column="0" Grid.Row="7" Click="rowna_sie_Click" Background="#5797ff" Margin="1" >=</Button>
+        <Button x:Name="sinus" Grid.Column="1" Grid.Row="7" Click="sin" Background="#5797ff" Margin="1" >sin°</Button>
+        <Button x:Name="cosinus" Grid.Column="2" Grid.Row="7" Click="cos" Background="#5797ff" Margin="1">cos°</Button>
+        <Button x:Name="tangens" Grid.Column="3" Grid.Row="7" Click="tg" Background="#5797ff" Margin="1">tg°</Button>
+       
+        
+        
+        
+        <Button x:Name="przecinek" Grid.Column="2" Grid.Row="6" Click="przecinek_Click" Background="#5797ff" Margin="1">,</Button>
+
+        <!-- Wynik -->
+        <TextBox x:Name="Tekst" IsReadOnly="True" TextAlignment="Right" VerticalAlignment="Bottom" FontSize="30" BorderThickness="0"
+                 Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" Background="#fff" Foreground="Black" TextChanged="Zmieniony_Tekst" Margin="1">0</TextBox>
+
+        <!--Pokazywanie obliczen-->
+        <Label x:Name="Pok_obl" Visibility="Visible" HorizontalAlignment="right" VerticalAlignment="Bottom" FontSize="15" Margin="1" BorderThickness="3"
+               Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Background="#fff" Foreground="Black"></Label>
+    </Grid>
+
+
+</Window>

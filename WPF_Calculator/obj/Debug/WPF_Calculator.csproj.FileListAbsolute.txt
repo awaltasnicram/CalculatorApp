@@ -1,0 +1,56 @@
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\bin\Debug\WPF_Calculator.exe.config
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\bin\Debug\WPF_Calculator.exe
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\bin\Debug\WPF_Calculator.pdb
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator_MarkupCompile.cache
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator_MarkupCompile.lref
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator.g.resources
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator.Properties.Resources.resources
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator.exe
+\\Mac\Home\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator.pdb
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator_MarkupCompile.cache
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator_MarkupCompile.lref
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator.exe
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator.pdb
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\bin\Debug\WPF_Calculator.exe.config
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\bin\Debug\WPF_Calculator.exe
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\bin\Debug\WPF_Calculator.pdb
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator.g.resources
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Newton\Objektorienterad Programmering 1\WPF_Calculator\obj\Debug\WPF_Calculator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\bin\Debug\WPF_Calculator.exe.config
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\bin\Debug\WPF_Calculator.exe
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\bin\Debug\WPF_Calculator.pdb
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\obj\Debug\WPF_Calculator.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\obj\Debug\WPF_Calculator_MarkupCompile.cache
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\obj\Debug\WPF_Calculator_MarkupCompile.lref
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\obj\Debug\WPF_Calculator.g.resources
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\obj\Debug\WPF_Calculator.Properties.Resources.resources
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\obj\Debug\WPF_Calculator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\obj\Debug\WPF_Calculator.exe
+C:\Users\HP\Desktop\wpf-calculator-master (1)\wpf-calculator-master\obj\Debug\WPF_Calculator.pdb
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\bin\Debug\WPF_Calculator.exe.config
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\bin\Debug\WPF_Calculator.exe
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\bin\Debug\WPF_Calculator.pdb
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\obj\Debug\WPF_Calculator.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\obj\Debug\App.g.cs
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\obj\Debug\WPF_Calculator_MarkupCompile.cache
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\obj\Debug\WPF_Calculator_MarkupCompile.lref
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\obj\Debug\MainWindow.baml
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\obj\Debug\WPF_Calculator.g.resources
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\obj\Debug\WPF_Calculator.Properties.Resources.resources
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\obj\Debug\WPF_Calculator.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\obj\Debug\WPF_Calculator.exe
+C:\Users\HP\Documents\Satława_Marcin\Satława_Marcin\obj\Debug\WPF_Calculator.pdb
